@@ -1,0 +1,10 @@
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/bin/net8.0/linux-x64/SpeakerCpuVibe
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/bin/net8.0/linux-x64/SpeakerCpuVibe.dll
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/bin/net8.0/linux-x64/SpeakerCpuVibe.pdb
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.AssemblyInfoInputs.cache
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.AssemblyInfo.cs
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.csproj.CoreCompileInputs.cache
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.dll
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/refint/SpeakerCpuVibe.dll
+/mnt/shared/Symlinks (Destination)/Downloads/task manager meme thing [linux port]/obj/net8.0/linux-x64/SpeakerCpuVibe.pdb

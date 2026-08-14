@@ -1,0 +1,2 @@
+/home/cultist/Downloads/task manager meme thing [linux port]/bin/net8.0/publish/SpeakerCpuVibe.pdb
+/home/cultist/Downloads/task manager meme thing [linux port]/bin/net8.0/publish/SpeakerCpuVibe
